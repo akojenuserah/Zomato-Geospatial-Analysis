@@ -10,6 +10,7 @@ So, they need to analyze their data to come up with insights that will increase 
 
 # Dataset
 
-The Zomatoe dataset can be accessed <a here = " https://drive.google.com/file/d/1jtWYqeRmejqx6TO4FPsdqr8AXiWN4I8S/view?usp=sharing" </a>
+The Zomatoe dataset can be accessed <a href = " https://drive.google.com/file/d/1jtWYqeRmejqx6TO4FPsdqr8AXiWN4I8S/view?usp=sharing" target = "_blank">here</a>
+
 
 
